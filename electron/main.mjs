@@ -1,10 +1,15 @@
-import { app, BrowserWindow, dialog, ipcMain, shell } from "electron";
 import fs from "node:fs";
 import path from "node:path";
 import { createRequire } from "node:module";
 
+// Electron's ESM loader cannot provide named exports from the "electron"
+// module, so it must be required through the CJS interop path.
 const require = createRequire(import.meta.url);
+const { app, BrowserWindow, dialog, ipcMain, shell } = require("electron");
 const ffmpegPath = require("ffmpeg-static");
+
+// Avoid white/flashing windows on some Windows GPUs.
+app.disableHardwareAcceleration();
 
 const DASH_BASE = "https://dashscope-intl.aliyuncs.com";
 const ENROLL_URL = `${DASH_BASE}/api/v1/services/audio/tts/customization`;
