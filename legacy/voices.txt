@@ -1,0 +1,87 @@
+Fatshi
+------------------------------------
+
+Voice Name : Beton
+Voice ID   : qwen-omni-vc-Beton-voice-20260605101429536-1cf1
+
+
+Professional man 
+-----------------------------------------------------------------
+
+Voice Name : Shasha
+Voice ID   : qwen-omni-vc-Shasha-voice-20260605103351301-0b12
+
+
+Professional Woman
+---------------------------------------------------------------
+Voice Name : Shani
+Voice ID   : qwen-omni-vc-Shani-voice-20260605101527530-212b
+
+Multi langual1
+----------------------------------------------------------------
+Voice Name : Multi1
+Voice ID   : qwen-omni-vc-Multi1-voice-20260612171722624-3299
+
+Homme_Quebecois
+----------------------------------------------------------------
+Voice Name : Homme_Quebec
+Voice ID   : qwen-omni-vc-Homme_Quebec-voice-20260612171842663-75f6
+
+
+Homme2_Quebecois
+------------------------------------------------------------------
+Voice Name : Homme2_Quebec
+Voice ID   : qwen-omni-vc-Homme2_Quebec-voice-20260612172009036-daed
+
+
+US_Man3
+--------------------------------------------------------------
+Voice Name : US_Man3
+Voice ID   : qwen-omni-vc-US_Man3-voice-20260612172200075-a546
+
+US_Man2
+--------------------------------------------------------------
+Voice Name : US_man2
+Voice ID   : qwen-omni-vc-US_man2-voice-20260612172308892-0e00
+
+US_Man1
+------------------------------------------------------------------
+
+Voice Name : US_Man1
+Voice ID   : qwen-omni-vc-US_Man1-voice-20260612172421534-8e55
+
+US_lady1
+-----------------------------------------------------------------
+
+Voice Name : US_lady1
+Voice ID   : qwen-omni-vc-US_lady1-voice-20260612173432290-1701
+
+US_lady2
+-----------------------------------------------------------------
+Voice Name : US_lady2
+Voice ID   : qwen-omni-vc-US_lady2-voice-20260612173351978-4098
+
+
+US_lady3
+-----------------------------------------------------------------
+Voice Name : US_lady3
+Voice ID   : qwen-omni-vc-US_lady3-voice-20260612172701955-86a4
+
+------------------------------------------------------------------
+Voice Name : Deborah_F
+Voice ID   : qwen-omni-vc-Deborah_F-voice-20260622173835918-7569
+
+----------------------------------------------------------------------
+
+Voice Name : Sophie_F
+Voice ID   : qwen-omni-vc-Sophie_F-voice-20260622174053901-2d17
+
+----------------------------------------------------------------------
+Voice Name : paul_H
+Voice ID   : qwen-omni-vc-paul_H-voice-20260622174214129-a548
+
+------------------------------------------------------------------------
+Voice Name : Homme_Pub
+Voice ID   : qwen-omni-vc-Homme_Pub-voice-20260622174352755-d6b6
+
+

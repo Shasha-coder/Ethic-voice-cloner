@@ -1,0 +1,9 @@
+dashscope==1.25.20
+pillow>=10.0.0
+requests>=2.32.0
+
+# For GUI (Tkinter version)
+tk>=0.1.0
+
+# Optional: If you want to switch to web version later
+# streamlit>=1.38.0
